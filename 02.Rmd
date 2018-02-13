@@ -1,22 +1,26 @@
-# My second cool idea {#slug-two}
+# My Side of the Story {#MatchMade}
 
 #### Keywords {-}
 
-yaba, daba, do
+afraid of commitment, not another dating app, finding my soulmate, making it work, happily never after, date until you drop
 
-## A beginning.
+## So many dating apps!
 
-Nulla  sint  art party ex, mlkshk disrupt selvage 90's.  Umami sed slow-carb, fugiat  dolore nihil glossier magna migas actually farm-to-table microdosing keytar fixie.  IPhone fashion axe pinterest, cardigan street art quinoa banh mi bitters mollit  commodo pok pok culpa  delectus ut air plant.  Offal edison bulb ex, celiac 8-bit vaporware polaroid thundercats flannel kickstarter labore.  Activated charcoal portland af tousled microdosing woke, in  thundercats consectetur gluten-free hammock duis  next level DIY.  Keffiyeh commodo velit  mollit  brunch, cronut edison bulb banh mi swag stumptown crucifix hell of.  Brunch williamsburg try-hard, seitan literally vexillologist venmo DIY pariatur nesciunt master cleanse XOXO.
+Many of those seeking love, long term relationships, or simple companionship have embarked on the dating app quest. As millienials, we are very comfortable with phone apps and internet technology, even when it comes to our love lives. We start with downloading the app, filling out profiles about ourselves, and then begin the endless swiping, hoping that the same person who we swipe "yes" on likes us back. So often the game we play ends with someone not wanting the same things as we do, completely ignoring us, which is more commonly referred to now as "ghosting" us, or simply not being compatible. 
 
-## A middle.
+What if there were a better way to find out who is right for you? What if there was an app that currated your current matches and future relationships based on who you were in your prior relationships? My idea is for the tons of dating apps including: Tinder, eHarmony, OkCupid, Bumble, PlentyOfFish, Hinge, Happn, Jswipe, Grindr, The League, Coffee Meets Bagel, Match, OurTime, and Jdate to become a bit smarter. These apps would have a software add on that would enable someone to discuss their relationship history, and get matches based off of past relationships.
 
-8-bit synth irony nisi wolf, street art dreamcatcher flannel placeat selvage health goth sriracha.  Glossier labore ex venmo, cillum  live-edge jianbing everyday carry af cray laborum incididunt eiusmod jean shorts.  Normcore slow-carb lyft letterpress, beard tilde art party.  Poke marfa incididunt tempor duis.  Iceland fam ex beard, activated charcoal vaporware nesciunt lyft cronut four dollar toast irony.  Officia  stumptown voluptate  unicorn culpa  bushwick.  Mollit  vero af marfa deserunt  flexitarian.
+## A better way to find love.
 
+Many of the apps currently match on personality, lifestyle choices, hobbies, interests, etc., but so often a potential predictor to our relationship lifestyle should be past relationships. The app add on would ask individuals questions about their relationship history such as number of longterm relationships, why they ended, what they learned, common disagreements, etc. This information would not be forward facing, but simply behind the scenes working with the algorithm already in place in the app to display potential matches. Someone could also choose if they only want to see other individuals that have also opted in to this relationship add on feature, or if that would not matter to them.
+
+The thought here would be that two people who have both been in longterm relationships may prefer to be matched with other people who have also been in these longer relationships. Others that have shortterm relationships or are self-proclaimed "commitment phobes" would likely fair far better with people that are not expecting something longterm right off the bat. The imbalance of different expectations that could potentially waste a lot of time would no longer be in the way. 
+
+This app would also help be able to learn the preferences of the individuals. Pretty quickly into dating a new person, it can be fairly obvious what they are looking for, and if they are looking for the same things as you. After a couple of dates, if an individual wanted, they could rate their match with regards to similar relationship preferences. Then, the app could learn a bit more about if this was a good setup 
 
 ```{r experimental,echo=F,results='asis',eval=F}
 data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
 ```
-
 
 Laborum williamsburg sunt whatever, DIY reprehenderit  retro vaporware id  hella flannel sartorial vero fugiat  before they sold out.  Copper mug salvia keffiyeh, neutra nostrud iceland keytar kogi church-key quinoa ramps mlkshk.  Seitan mollit  3 wolf moon, forage shabby chic cillum  church-key tofu exercitation aliquip.  Church-key distillery flexitarian meh incididunt retro, ugh wolf selvage hashtag.  Bicycle rights 90's officia  vape.  Listicle post-ironic vape ex.  Gluten-free lomo tumeric, yuccie everyday carry tempor put a bird on it knausgaard nisi ugh skateboard VHS.
 
