@@ -11,10 +11,9 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Danielle Adler</a></li>
       after: |
-        <li><a href="https://github.com/dadler1217" target="blank">GitHub</a></li>
+        <li><a href="https://github.com/Dadler1217" target="blank">GitHub</a></li>
         <li><a href="https://www.ischool.berkeley.edu/people/danielle-adler" target="blank">UC Berkeley</a></li>
-        <li><a href="https://www.linkedin.com/in/danielleadler/" target="blank">LinkedIn</a></li>
-        <li><a href="https://www.wired.com/2013/02/friendster-autopsy/" target="blank">Friendster</a></li>        
+        <li><a href="https://www.linkedin.com/in/danielleadler/" target="blank">LinkedIn</a></li>        
     sharing:
       facebook: no
       twitter: no
