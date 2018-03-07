@@ -12,7 +12,7 @@ biblio-style: apalike
 <!-- This won't be displayed but it will initialize your R session. Add any R libraries you need here. -->
 ```{r init,include=FALSE,echo=FALSE}
 library(magrittr)
-readLines('https://www.zotero.org/api/users/4665261/collections/GAKEVFFE/items/top?limit=100&format=bibtex&key=6SSHE7PQ08JFRKGSTRT7mvwS&v=1') %>% writeLines('references.bib')
+readLines('https://www.zotero.org/api/users/4665261/items/top?limit=100&format=bibtex&key=6SSHE7PQ08JFRKGSTRT7mvwS&v=1') %>% writeLines('references.bib')
 ```
 
 
