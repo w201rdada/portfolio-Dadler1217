@@ -12,7 +12,7 @@ Many of those seeking love, long term relationships, or simple companionship hav
 
 What if there were a better way to find out who is right for you? What if there was an app that curated your current matches and future relationships based on who you were in your prior relationships? My idea is for the tons of dating apps including: Tinder, eHarmony, OkCupid, Bumble, PlentyOfFish, Zoosk, Hinge, Happn, Jswipe, Christian Mingle, BlackPeopleMeet, Grindr, The League, Coffee Meets Bagel, Match.com, Cowboys Nearby, HowAboutWe, ChocolateSingles, MeetMe, Badoo, The League, Her, OurTime, FarmersOnly, and Jdate to become a bit smarter. These apps would each be able to give users the option of using a software add-on that would enable someone to discuss their relationship history, and get matches based off of past relationships. Each app could curate the questions a bit differently, or certain apps could consider working together to share user information as many are owned by the same parent company [@entis_match_2015].
 
-```{r Dating_Apps_Logos,echo=FALSE,fig.cap='All the apps!',fig.align='center',out.width='50%'}
+```{r Dating-Apps-Logos,echo=FALSE,fig.cap='All the apps!',fig.align='center',out.width='50%'}
 knitr::include_graphics('img/Dating_App_Logos.jpg')
 ```
 
