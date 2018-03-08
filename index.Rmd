@@ -36,7 +36,7 @@ Have you ever sent the wrong email to the wrong person? Have you ever realized t
 
 ### Abstract of my second cool idea {-}
 
-Have you ever wondered what predicts relationship success? Could it be past relationships? My research hypothesis and software app add-on tries to prove that past relationships are worthwhile predictors of future relationships. Dating app users will have the option to fill out a short questionairre about their past dating and relationship lifestyle. The app's algorithm will use the answers to work to match up folks that have had similar dating experiences in a hopes that they will be looking for the same thing. Users will then provide feedback on whether the match worked or not, which will prove or disprove our key research question. Overall, this dating app software add-on should improve the lives of all users!
+Have you ever wondered what predicts relationship success? Could it be past relationships? My research hypothesis and software app add-on tries to prove that past relationships are worthwhile predictors of future relationships. Dating app users will have the option to fill out a short questionaire about their past dating and relationship lifestyle. The app's algorithm will use the answers to match up folks that have had similar dating experiences in a hope that they will be looking for the same thing. Users will then provide feedback on whether the match worked or not, which will prove or disprove our key research question and help the software. Overall, this dating app software add-on should improve the lives of all users!
 
 
 ## About the author {-}
