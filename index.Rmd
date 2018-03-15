@@ -15,7 +15,6 @@ library(magrittr)
 readLines('https://www.zotero.org/api/users/4665261/items/top?limit=100&format=bibtex&key=6SSHE7PQ08JFRKGSTRT7mvwS&v=1') %>% writeLines('references.bib')
 ```
 
-
 # Welcome! {-}
 
 <!-- You can include images saved within your repo... -->
@@ -24,9 +23,11 @@ knitr::include_graphics('img/hello-world.png')
 ```
 
 
+Welcome to my Research Design and Applications for Data and Analysis portfolio!
+
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
-```{r Bitmoji-HAIIII!,echo=FALSE,fig.cap='Hi Everyone!',fig.align='center',out.width='50%'}
-knitr::include_graphics('img/Bitmoji_HAIIII!.png')
+```{r Danielle_Adler,echo=FALSE,fig.cap='Hi Everyone!',fig.align='center'}
+knitr::include_url('https://drive.google.com/file/d/1Yr8KpeU1rG2DffoL6l_3Be-vwFs7Jqh0/preview')
 ```
 
 
